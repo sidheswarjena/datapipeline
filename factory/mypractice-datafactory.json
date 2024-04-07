@@ -1,0 +1,9 @@
+{
+	"name": "mypractice-datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03807b79-173b-4bd3-82b6-ed2f8caef55c",
+		"tenantId": "ea9cf008-e93d-4970-8708-a1998c1a0e7c"
+	}
+}

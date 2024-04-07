@@ -1,0 +1,7 @@
+{
+	"name": "myPracticeIR-Sidhu-PC",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "my PC Integration Runtime "
+	}
+}
